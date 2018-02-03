@@ -1,0 +1,10 @@
+
+
+Merge the icing branch into the master branch
+
+    git checkout master
+    git merge icing
+    #Now you can delete the icing branch
+    git branch -d icing
+
+
