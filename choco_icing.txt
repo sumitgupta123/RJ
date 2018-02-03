@@ -1,0 +1,11 @@
+
+How do I fix it?
+
+    It's not a bug, it's a feature!
+    Collaborate with others
+    Branch for feature, experiments, etc
+    Merge only once you've perfected your recipe code
+    Git 'workflow' - More on that later
+
+Question: Now, let's add a chocolate_icing. How?
+
